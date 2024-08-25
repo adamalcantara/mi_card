@@ -78,5 +78,9 @@ flutter:
        fonts:
          - asset: fonts/NewAmsterdam-Regular.ttf
 
+     - family: SourceSans
+       fonts:
+         - asset: fonts/SourceSans3-VariableFont_wght.ttf
+
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
