@@ -1,17 +1,7 @@
-# mi_card
+# Mi Card
 
-A new Flutter project.
+## Description
 
-## Getting Started
+A simple application written with Dart and Flutter to create a virtual business card. In building this application, I furthered my knowledge of Flutter and its widgets, including Card, Padding, ListTile, SafeArea, and Circle Avatar. I also learned how to implement custom fonts and icons in a Flutter application.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# mi_card
+![iphone](https://github.com/user-attachments/assets/5034910f-f127-4b0e-be92-8048085cb0c6)
